@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning i2pd
 - 💞️ I’m looking to collaborate on helping about improving all the above
 - 📫 How to reach me:
-- email: anikey@mail.i2p
+- email: anikey@mail.i2p (anikey@i2pmail.org)
 - i2pforum.i2p: anikey
