@@ -5,3 +5,4 @@
 - 📫 How to reach me:
 - email: anikey@mail.i2p (anikey@i2pmail.org)
 - i2pforum.i2p: anikey
+- reddit: u/anikey-from-i2p
